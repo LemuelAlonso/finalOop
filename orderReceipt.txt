@@ -1,0 +1,11 @@
+Buyer Name: trixette
+Email: Email not found
+Delivery Address: camagong
+Date and Time: 2024-12-15 11:12:04
+Order Details:
+Apple Crips Oatmilk Macchiato, 9, 280.00
+Pumpkin Cream Cold Brew, 7, 260.00
+Pumpkin Cream Cold Brew, 56, 260.00
+Pumpkin Cream Cold Brew, 4, 260.00
+Apple Crips Oatmilk Macchiato, 5, 280.00
+Pumpkin Cream Cold Brew, 45, 260.00
